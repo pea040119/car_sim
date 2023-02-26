@@ -9,3 +9,7 @@ conda create -n car_sim python=3.9
 pip install PyOpenGL
 
 pip install PyOpenGL_accelerate
+
+---check version---
+import sys
+print(sys.version)
