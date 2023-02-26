@@ -1,2 +1,4 @@
-print('hello')
-print('test')
+import sys
+
+print('hello_world!!')
+print(sys.version)
