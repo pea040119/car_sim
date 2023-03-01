@@ -5,3 +5,6 @@ COLOR = {'BLACK':(0, 0, 0), 'WHITE':(255, 255, 255), 'BLUE':(0, 0, 255), 'GREEN'
 SIZE = 850
 CAR_SIZE = 21
 LANE_SIZE = 15
+
+
+asdfasdfasdfas
